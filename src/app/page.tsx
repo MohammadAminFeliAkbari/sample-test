@@ -67,6 +67,7 @@ export default function Home() {
           />
           Learn
         </a>
+        <Image src={'https://about.digikala.com/wp-content/uploads/2024/08/digi.jpg'} alt="not found" width={100} height={100}/>
         <a
           className="flex items-center gap-2 hover:underline hover:underline-offset-4"
           href="https://vercel.com/templates?framework=next.js&utm_source=create-next-app&utm_medium=appdir-template-tw&utm_campaign=create-next-app"
